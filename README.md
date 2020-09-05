@@ -1,4 +1,4 @@
-# Reactified Octocats
+# Reactified Octocats: A React.JS App
 The Octodex is a fun way to celebrate a powerful tool we use for development. In that same spirit, recreate [this site](https://octodex.github.com/)
 
 You'll identify the main `Component`s on the page and create React components for each, breaking down those `Component`s into smaller ones as needed.
